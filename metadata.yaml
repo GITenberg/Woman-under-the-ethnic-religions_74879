@@ -1,0 +1,29 @@
+_repo: Woman-under-the-ethnic-religions_74879
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Mrs. Moses
+    gutenberg_agent_id: '57703'
+    url: http://www.gutenberg.org/2009/agents/57703
+description: ''
+gutenberg_issued: '2024-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74879'
+language: en
+pgterms:marc904: https://archive.org/details/womanunderethnic00smit
+pgterms:marc905: 20240704072327smith
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: Produced by deaurider, Donald Cummings, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aUnited States :$bWoman''s Board of Missions of the Interior,
+  $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Woman under the ethnic religions
+url: http://www.gutenberg.org/ebooks/74879
